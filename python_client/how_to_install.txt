@@ -1,0 +1,4 @@
+The python influxdb client can be installed with the following command.
+sudo apt-get install python-influxdb
+
+Command works on raspberry pi
